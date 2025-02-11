@@ -17,7 +17,7 @@ This repository contains **finance-focused code and tools** to help you:
 These scripts and resources are designed to make **finance practical, data-driven, and accessible** to everyone—whether you’re just starting or looking to optimize your portfolio.  
 
 ---
-## 🎯 Why Personal Finance Unleashed?
+## Why Personal Finance Unleashed?
 Managing money isn't just about numbers—it's about **behavior, psychology, and smart decision-making**. Our mission is to break down complex financial topics into **easy-to-apply insights** so you can **take control of your wealth with confidence**.
 
 💰 **Topics Covered:**
@@ -25,7 +25,27 @@ Managing money isn't just about numbers—it's about **behavior, psychology, and
 - **Investing Strategies** – Stocks, ETFs, index funds, and passive income  
 - **Behavioral Finance** – Overcoming biases that affect financial decisions  
 - **Risk Management** – How to protect and grow your wealth  
-- **Asset Allocation** – Optimizing your portfolio for long-term success  
+- **Asset Allocation** – Optimizing your portfolio for long-term success
+
+🎯 **Topics Covered:**
+
+![Reflect](https://personalfinanceunleashed.com/wp-content/uploads/2025/02/favicon-114x114-3.png)
+
+Financial Awareness, Cognitive Biases, Money Mindset & Habits
+
+
+![Learn](https://personalfinanceunleashed.com/wp-content/uploads/2025/02/favicon-114x114-4.png)
+
+Finance 101, Money, Interest Rates, Assets comparisons, Financial Markets
+
+![Apply](https://personalfinanceunleashed.com/wp-content/uploads/2025/02/favicon-114x114-2.png)
+
+Saving, Budgeting, Goal-based Investing
+
+![Grow](https://personalfinanceunleashed.com/wp-content/uploads/2025/02/favicon-114x114-1.png)
+
+Risk Management, Asset Allocations, Compounding and Diversification, Wealth Transfer
+
 
 ---
 ## 🚀 Get Started
